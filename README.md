@@ -7,6 +7,6 @@ This repository contains a full documenation and all project files. The <a href=
 
 <img src="https://github.com/svenpetersen1965/C64_PSU_Z66/blob/main/Rev.%201/pictures/1052_-_in_case.JPG" width="300" alt="C64 PSU Z66">
 
-Learn more abaout cable making: Please visit my <a href="http://tech.guitarsite.de/cable_making.html">website</a>.
+Learn more about cable making: Please visit my <a href="http://tech.guitarsite.de/cable_making.html">website</a>.
 
-The BOM value of the PSU is 42.15€ (per February 2022).
+The BOM value of the PSU is 42.16€ (as of February 2022).
